@@ -9,6 +9,11 @@ html {
 }
 
 body {
+    height: 842px;
+        width: 595px;
+        /* to centre page on screen*/
+        margin-left: auto;
+        margin-right: auto;
   min-height: 100%;
   background: #fff;
   font-family: 'Roboto', sans-serif;
@@ -70,7 +75,7 @@ body {
 }
 
 .photo {
-    width: 200px;
+    width: 180px;
     height: auto;
     position: absolute;
     right: 0;
